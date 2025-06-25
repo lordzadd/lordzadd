@@ -1,6 +1,6 @@
 # Hi there, I'm Ritvik Sharma! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritvik-s-082088127/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritvik.sharma@protonmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+15095959898)
 
@@ -166,7 +166,7 @@ I'm always interested in discussing technology, collaborating on projects, or ju
 
 **📧 Email:** [ritvik.sharma@protonmail.com](mailto:ritvik.sharma@protonmail.com)  
 **📱 Phone:** [(509) 595-9898](tel:+15095959898)  
-**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
+**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/ritvik-s-082088127/)
 
 ---
 
