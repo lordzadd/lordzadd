@@ -89,16 +89,6 @@ I'm a passionate software engineer with a unique blend of full-stack development
 - ☁️ AWS integration for backup, monitoring, and scalable resources
 - 🤖 Automated deployments with Docker Compose and custom scripting
 
-### 🥽 [Custom VR Hardware Development](https://github.com/lordzadd/vr-hardware)
-> **Open Source Hardware** | PCB Design & Embedded Systems
-
-**Tech Stack:** C++, Circuit Design, 3D Printing
-
-- **Lucid VR Gloves:** Custom PCB for haptic feedback with finger tracking
-- **SLIME VR Tracker:** Wireless motion tracking using IMU sensors
-- 🌐 Open-source community collaboration for cost optimization
-- 📡 Low-power wireless protocols and sensor fusion algorithms
-
 ---
 
 ## 💼 Professional Experience
