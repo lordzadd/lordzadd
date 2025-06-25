@@ -111,7 +111,6 @@ I'm a passionate software engineer with a unique blend of full-stack development
 
 **📜 Certifications:**
 - National Infocomm Competency Framework Certification (Singapore, 2019)
-- High-level Security Clearance (Classified Telecommunications)
 
 ---
 
